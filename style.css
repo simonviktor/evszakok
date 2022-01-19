@@ -1,0 +1,35 @@
+body {
+    background-color: grey;
+    color: lightblue;
+}
+
+img {
+    width: 400px;
+    margin: 30px;
+    transition: 1s;
+    border: 3px solid black;
+}
+
+img:hover {
+    width: 500px;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.kepek {
+    float: left;
+}
+
+h3 {
+    text-align: center;
+}
+
+.cucc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
